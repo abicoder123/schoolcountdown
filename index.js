@@ -1,5 +1,5 @@
 
-const end = new Date("December 25, 2026").getTime();
+const end = new Date("March 14, 2026").getTime();
 
 setInterval(function() {
   const now = new Date().getTime();
